@@ -2,7 +2,7 @@
 
 A machine learning project that implements a Siamese neural network for face verification tasks using the Labeled Faces in the Wild (LFW) dataset.
 
-## 📋 Project Overview
+## Project Overview
 
 This project focuses on developing a face verification system that can determine whether two face images belong to the same person or different persons. The system uses a Siamese neural network architecture, which is particularly effective for similarity-based learning tasks.
 
@@ -14,7 +14,7 @@ This project focuses on developing a face verification system that can determine
 - **Data Preprocessing**: Comprehensive data preparation and normalization pipeline
 - **Exploratory Data Analysis**: Detailed analysis of pixel intensity distributions
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 Face Recognition System/
@@ -26,7 +26,7 @@ Face Recognition System/
     └── SDC486L_Project2.2_Gebert.docx    # Technical report
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -54,7 +54,7 @@ jupyter notebook
 
 4. Open the main notebook: `notebooks/SDC486L_Project2.2_Gebert.ipynb`
 
-## 📊 Dataset
+## Dataset
 
 The project uses the **Labeled Faces in the Wild (LFW)** dataset, which is specifically designed for face verification tasks. The dataset includes:
 
@@ -70,7 +70,7 @@ The project uses the **Labeled Faces in the Wild (LFW)** dataset, which is speci
 - **Image dimensions**: Variable (resized for consistency)
 - **Class distribution**: Slightly imbalanced between same/different person pairs
 
-## 🔧 Technical Implementation
+## Technical Implementation
 
 ### Data Preprocessing Pipeline
 
@@ -96,7 +96,7 @@ The system implements a **Siamese Neural Network** with the following characteri
 - **Statistical Analysis**: Summary statistics and outlier detection
 - **Preprocessing Pipeline**: Automated data preparation for model training
 
-## 📈 Results and Analysis
+## Results and Analysis
 
 The project includes detailed analysis of:
 
@@ -105,25 +105,25 @@ The project includes detailed analysis of:
 - **Feature Engineering**: Preparation for deep learning models
 - **Model Readiness**: Verification of data suitability for neural networks
 
-## 📚 Documentation
+## Documentation
 
 - **SDC486L_Project1.4_Gebert.docx**: Initial project documentation and requirements
 - **SDC486L_Project2.2_Gebert.docx**: Technical implementation report
 - **SDC486L_Project2.2_Gebert.ipynb**: Complete implementation with detailed comments
 
-## 🤝 Contributing
+## Contributing
 
 This is an academic project for SDC486L. For questions or contributions, please contact the project maintainer.
 
-## 📄 License
+## License
 
 This project is part of an academic course (SDC486L) and is intended for educational purposes.
 
-## 👨‍💻 Author
+## Author
 
 **John Gebert** - Student ID: johgeb8270
 
-## 📞 Contact
+## Contact
 
 For questions about this project, please refer to the project documentation or contact the author through the academic institution.
 
