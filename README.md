@@ -121,7 +121,7 @@ This project is part of an academic course (SDC486L) and is intended for educati
 
 ## Author
 
-**John Gebert** - Student ID: johgeb8270
+**John Gebert** 
 
 ## Contact
 
