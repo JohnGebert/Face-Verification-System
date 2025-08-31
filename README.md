@@ -216,7 +216,7 @@ This project is part of an academic course (SDC486L) and is intended for educati
 
 ## 👨‍💻 Author
 
-**John Gebert** - Student ID: johgeb8270
+**John Gebert** 
 
 ## 📞 Contact
 
@@ -224,4 +224,4 @@ For questions about this project, please refer to the project documentation or c
 
 ---
 
-*This project was developed as part of SDC486L coursework, demonstrating comprehensive machine learning implementation from data preparation through deployment-ready decision support systems.*
+*This project was developed as part of SDC486L coursework, focusing on machine learning applications in computer vision and face recognition technologies.*
